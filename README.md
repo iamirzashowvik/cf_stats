@@ -15,3 +15,4 @@
 <img src="https://raw.githubusercontent.com/iamirzashowvik/cf_stats/main/output/rating.svg" />
 </a>
 
+
