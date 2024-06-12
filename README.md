@@ -6,8 +6,8 @@
 
 
 <a href="https://github.com/iamirzashowvik/cf_stats">
-<img src="https://raw.githubusercontent.com/iamirzashowvik/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/iamirzashowvik/cf-stats/main/output/light_card.svg"/>
+<img src="https://raw.githubusercontent.com/iamirzashowvik/cf_stats/main/output/light_card.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/iamirzashowvik/cf_stats/main/output/light_card.svg"/>
 </a>
 <br/>
 <a href="https://github.com/iamirzashowvik/cf_stats">
