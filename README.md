@@ -6,8 +6,8 @@
 
 
 <a href="https://github.com/iamirzashowvik/cf_stats">
-<img src="https://raw.githubusercontent.com/iamirzashowvik/cf_stats/ddeae0d8b0a196edbe819e3a9712b8408edee95b/output/light_card.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/iamirzashowvik/cf_stats/ddeae0d8b0a196edbe819e3a9712b8408edee95b/output/light_card.svg" />
+![](https://raw.githubusercontent.com/iamirzashowvik/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/iamirzashowvik/cf-stats/main/output/light_card.svg)
 </a>
 <br/>
 <a href="https://github.com/iamirzashowvik/cf_stats">
